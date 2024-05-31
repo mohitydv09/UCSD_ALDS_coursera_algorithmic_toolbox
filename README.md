@@ -4,7 +4,7 @@ This repository contains my solutions to the algorithm course provided by the Un
 
 ## Course Information
 
-**Course:** [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox?specialization=data-structures-algorithms)
+**Course:** [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox?specialization=data-structures-algorithms)  
 **University:** University of California, San Diego  
 **Platform:** Coursera
 
