@@ -1,2 +1,19 @@
-# UCSD_ALDS_coursera_algorithmic_toolbox
-My Solution to problem statements for the Coursera Course on Data Structure and Algorithms by UCSD Course 1 Algorithmic Warmup
+# Algorithms Course Solutions
+
+This repository contains my solutions to the algorithm problems provided by the University of California, San Diego through Coursera. All solutions are implemented in Python.
+
+## Course Information
+
+**Course:** [Algorithms Specialization](https://www.coursera.org/specializations/algorithms)  
+**University:** University of California, San Diego  
+**Platform:** Coursera
+
+## Description
+
+The algorithms covered in this course include:
+
+- Divide and Conquer
+- Sorting and Searching
+- Greedy Algorithms
+- Dynamic Programming
+- Graph Algorithms
